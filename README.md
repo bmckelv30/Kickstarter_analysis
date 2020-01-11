@@ -4,6 +4,8 @@
 
 * Analyzed data of four thousand past Kickstarter projects to uncover some of the market trends
 
+## Findings
+
 * What are three conclusions we can make about Kickstarter campaigns given the provided data?
   1.	The theater category has the most campaigns. Looking at the graph it looks like the music category has the most successful campaigns relative to failed and canceled campaigns.
   2.	The most campaign subcategories are plays. There were a quite a few subcategories where all the campaigns were successful; including rock, classical music, metal, electronic music, documentary, nonfiction, radio & podcasts, shorts, tabletop games, television, and hardware. All animation, drama, fiction, gadgets, restaurants, and video game campaigns failed.
