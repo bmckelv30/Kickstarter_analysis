@@ -1,4 +1,4 @@
-# homework_01
+# Kickstarter Analysis
 
 ## Instructions
 
